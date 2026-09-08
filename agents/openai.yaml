@@ -1,0 +1,4 @@
+interface:
+  display_name: "自动气泡图"
+  short_description: "从零件工程图生成FAI气泡图、双工作表检验表并执行质量校验"
+  default_prompt: "使用 $auto-balloon-fai 根据零件图纸和检验模板生成气泡图及双工作表FAI检验表。"
